@@ -7,9 +7,7 @@ Libraries: numpy, pandas, BeautifulSoup4, requests, re, nltk, sklearn, scipy, ma
 
 ## Table of contents
 - [Datasets](#datasets)
-
 - [Machine learning approach](#machine-learning-approach)
-
 - [The analysis](#the-analysis)
 
 
