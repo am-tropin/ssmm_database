@@ -20,9 +20,9 @@ Libraries: numpy, pandas, BeautifulSoup4, requests, re, nltk, sklearn, scipy, ma
 
 ## Machine learning approach
 
-- The first problem was is clustering of all candidates. The given problem was solved by using **the scikit-learn K-means clustering**. The result is in the [person_clusters.csv](https://github.com/am-tropin/ssmm_database/blob/main/elections:%20ML/person_clusters.csv) file.
+- The first problem is clustering of all candidates. The given problem was solved by using **the scikit-learn K-means clustering**. The result is in the [person_clusters.csv](https://github.com/am-tropin/ssmm_database/blob/main/elections:%20ML/person_clusters.csv) file.
 
-- The second problem was is clustering of all election programs. The given problem was solved by using **NLTK** for Russian language, manual grouping of mean-similar 2-grams and **the scikit-learn K-means clustering**. The result is in the [program_clusters.csv](https://github.com/am-tropin/ssmm_database/blob/main/elections:%20ML/program_clusters.csv) file.
+- The second problem is clustering of all election programs. The given problem was solved by using **NLTK** for Russian language, manual grouping of mean-similar 2-grams and **the scikit-learn K-means clustering**. The result is in the [program_clusters.csv](https://github.com/am-tropin/ssmm_database/blob/main/elections:%20ML/program_clusters.csv) file.
 
 
 ## The analysis
